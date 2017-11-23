@@ -1,2 +1,3 @@
 # Hello-World
-My first repository
+Hello, guys)
+It's my first experience with GitHub and i hope we will be friends)
